@@ -1,0 +1,1 @@
+  Cadena.ConnectionString = "Data Source=kp-pc002\\sqlexpress ; Initial Catalog=kpdb; Integrated Security=true;";
